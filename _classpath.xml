@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="image"/>
+	<classpathentry kind="lib" path="jarfiless/sqlite-jdbc-3.7.15-M1.jar"/>
+	<classpathentry kind="lib" path="jarfiless/sqlite-jdbc-3.7.15-SNAPSHOT-2.jar"/>
+	<classpathentry kind="lib" path="jarfiless/sqlite-jdbc-3.7.15-SNAPSHOT-javadoc.jar"/>
+	<classpathentry kind="lib" path="jarfiless/sqlite-jdbc-3.7.15-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="jarfiless/sqlite-jdbc-3.7.2-javadoc.jar"/>
+	<classpathentry kind="lib" path="jarfiless/sqlite-jdbc-3.7.2.jar"/>
+	<classpathentry kind="lib" path="jarfiless/sqlite-jdbc4-3.8.2-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="jarfiless/rs2xml.jar"/>
+	<classpathentry kind="lib" path="jarfiless/jcalendar-1.4.jar"/>
+	<classpathentry kind="lib" path="jarfiless/jgoodies-common-1.2.0.jar"/>
+	<classpathentry kind="lib" path="jarfiless/jgoodies-looks-2.4.1.jar"/>
+	<classpathentry kind="lib" path="jarfiless/junit-4.6.jar"/>
+	<classpathentry kind="lib" path="jgoodies-common-1.8.0.jar" sourcepath="jgoodies-common-1.8.0-sources.jar"/>
+	<classpathentry kind="lib" path="jgoodies-forms-1.8.0.jar" sourcepath="jgoodies-forms-1.8.0-sources.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
